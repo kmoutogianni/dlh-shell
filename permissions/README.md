@@ -1,1 +1,1 @@
-script changes user to betty
+files for the project 'Shell, permissions'
